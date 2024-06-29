@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @NauticalNerd95
+- 👋 Hi, I’m Shalom Salve
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me insta- @shalom.salve
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cats
 
 <!---

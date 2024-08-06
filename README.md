@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shalom Salve
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on....your mo-
 - 📫 How to reach me insta- @shalom.salve
 - 😄 Pronouns: walmart/cart
 - ⚡ Fun fact: I like cats

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me insta- @shalom.salve
-- 😄 Pronouns: he/him
+- 😄 Pronouns: walmart/cart
 - ⚡ Fun fact: I like cats
 
 <!---

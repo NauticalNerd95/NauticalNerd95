@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Shalom Salve
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on....your mo-
+- 💞️ I’m looking to collaborate on data analytic projects.
 - 📫 How to reach me insta- @shalom.salve
-- 😄 Pronouns: walmart/cart
-- ⚡ Fun fact: I like cats
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like cats and travelling.
 
 <!---
 NauticalNerd95/NauticalNerd95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
